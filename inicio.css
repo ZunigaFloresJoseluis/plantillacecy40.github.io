@@ -1,0 +1,132 @@
+.divuno{
+background:#323131;
+width: 100%;
+height: 30px;
+}
+
+#map {
+  width: 500px;
+  height: 250px;
+  background-color: grey;
+  position: relative;
+  top: 10px;
+  left: 100px
+}
+.Localizacion{
+  width: 200px;
+  height: 250px;
+background: white;
+position: relative;
+top: -240px;
+left: 630px;
+}
+
+.imgInicio{
+width: 100px;
+height: 100px;
+}
+.imgsegunda{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top:0px;
+  left: 100px
+
+
+}
+.ajaxmenu:focus {background-color:transparent}
+
+.eventos{
+  width: 300px;
+  height: 150px;
+
+
+}
+.posicionBoton{
+ position:relative;;
+ top: -130px;
+ left: 130px;
+
+
+}
+
+.posicionB{
+  position:relative;;
+  top: -130px;
+  left: 80px;
+
+}
+
+.tablaImage{
+  width: 200px;
+  height: 150px;
+
+}
+
+.cuadroInformacion{
+ background-image:url(SD.jpg);
+width:100%;
+height:300px;
+
+}
+
+
+.marco{
+width: 340px;
+height: 250px;
+
+}
+
+.textosEventos{
+  color:#055125;
+  font-weight:bold;
+  font-size: 18px;
+width: 300px;
+height: 150px;
+align-items: center;
+}
+
+.separarBarra{
+  background: #135A0A;
+  width: 10px;
+  height: 100px;
+ position: absolute;
+ top: 0px;
+ left: 200px;
+
+
+}
+
+.cecyteLetras{
+width: 400px;
+height: 90px;
+position: absolute;
+top:0px;
+left: 200px
+
+}
+
+.AntesMenu{
+background: #135A0A;
+width: 100%;
+height: 10px;
+
+}
+
+section{
+ background: #E5E4E4;
+ width: 70%;
+ height: 100%;
+ position: absolute;
+ top: 30px;
+ left: 200px;
+
+}
+
+
+.divdos{
+background: white;
+width: 100%;
+height: 100px;
+
+}
